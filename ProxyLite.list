@@ -1,10 +1,5 @@
 # 代理列表
 
-# Notepad++
-DOMAIN-SUFFIX,notepad-plus-plus.org
-# 美国之音
-DOMAIN-SUFFIX,voachinese.com
-
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
