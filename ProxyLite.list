@@ -1,5 +1,8 @@
 # 代理列表
 
+DOMAIN-SUFFIX,notepad-plus-plus.org
+DOMAIN-SUFFIX,www.voachinese.com
+
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
