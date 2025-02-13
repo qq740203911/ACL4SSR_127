@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,Pornhub.com
 DOMAIN-SUFFIX,91porny.com
 
-DOMAIN-KEYWORD,.tampermonkey.
-DOMAIN-KEYWORD,.userscript.
-DOMAIN-KEYWORD,.greasyfork.
+DOMAIN-KEYWORD,tampermonkey.
+DOMAIN-KEYWORD,userscript.
+DOMAIN-KEYWORD,greasyfork.
 
 DOMAIN-SUFFIX,wysiwygwebbuilder.com
