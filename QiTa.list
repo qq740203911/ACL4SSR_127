@@ -14,3 +14,6 @@ DOMAIN-KEYWORD,xbookcn.
 DOMAIN-KEYWORD,tampermonkey.
 DOMAIN-KEYWORD,userscript.
 DOMAIN-KEYWORD,greasyfork.
+
+#Steam 商店
+DOMAIN,store.steampowered.com
